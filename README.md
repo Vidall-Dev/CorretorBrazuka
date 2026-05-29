@@ -2,7 +2,7 @@ Para usar a extensão, siga os passos abaixo:
 
 ### 1️⃣ Baixe a extensão
 Clique no link abaixo para baixar o arquivo ZIP:  
-[📥 **Baixar ZIP**](https://github.com/Vidall-Dev/Auto-Mai-scula-Extens-o/releases/download/1.5/auto_maiuscula_v1.5.zip)
+[📥 **Baixar ZIP**](https://github.com/Vidall-Dev/CorretorBrazuka/releases/download/1.0/corretor_brazuka.zip)
 
 ### 2️⃣ Extraia o ZIP
 Após o download, extraia o conteúdo do arquivo ZIP para uma pasta no seu computador.
